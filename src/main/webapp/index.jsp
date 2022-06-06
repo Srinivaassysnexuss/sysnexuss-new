@@ -3,7 +3,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>welcome to my world</h1>
+<h1>welcome to sysnexuss</h1>
 <img src="boxfuse.png">
 
 <h2>You have successfully entered to the new world</h2>
